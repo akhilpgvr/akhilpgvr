@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhil
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Micro services
+- 🌱 Working as Microservice Developer 
 - 📫 Reach me through mail akhilpgvrcourses@gmail.com
 
 <!---
