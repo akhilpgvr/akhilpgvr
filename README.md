@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akhil
-- 👀 I’m interested in Full Stack Development
+- 👀 Interested in Full Stack Development
 - 🌱 Working as Microservice Developer 
 - 📫 Reach me through mail akhilpgvrcourses@gmail.com
 
