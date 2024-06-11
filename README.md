@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akhil
+- 👋 Hi, I’m Akhil
 - 👀 Interested in Full Stack Development(Still learning)
 - 🌱 Working as Microservice Developer 
 - 📫 Reach me through mail akhilpgvr@gmail.com
