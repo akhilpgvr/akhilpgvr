@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Akhil
-- 👀 Interested in Full Stack Development(Still learning)
-- 🌱 Working as Microservice Developer 
-- 📫 Reach me through mail akhilpgvr@gmail.com
+-Please do checkout my profile -- https://akhilpgvr.github.io/portfolio-react/
 
 <!---
 akhilpgvr/akhilpgvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
